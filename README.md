@@ -1,4 +1,4 @@
-
+```markdown
 # Telegram Intelligent Assistant Bot 🤖
 
 ## Descrição do Projeto
@@ -28,19 +28,27 @@ Bot inteligente para Telegram desenvolvido para automatizar processos de comunic
 1. Clone o repositório
 ```bash
 git clone https://github.seu-usuario/telegram-bot
-Instalar as dependências
-bater
+```
 
+2. Instale as dependências
+```bash
 npm install
-Configurar suas credenciais
-Uso
-Javascript-escritor
+```
 
+3. Configure suas credenciais
 
+### Uso
+
+```javascript
 const bot = require('./bot-telegram');
 bot.start();
-Contribuição
+```
+
+### Contribuição
+
 Pull requests são bem-vindos!
 
-Licença
+### Licença
+
 MIT
+```
