@@ -1,4 +1,3 @@
-```markdown
 # Telegram Intelligent Assistant Bot 🤖
 
 ## Descrição do Projeto
